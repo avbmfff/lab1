@@ -3,7 +3,7 @@
 
 int main()
 {
-    int a, b;
+   // int a, b;
 
     scanf("%x", &a); //запрашиваем число в 16
     printf("%o\n", a); //выводим в 8
