@@ -3,8 +3,8 @@
 #include <math.h>
 int main()
 {
-   // float a;
-   float a, c;
+   float a;
+   //float a, c;
     char b[200];
     scanf("%f", &a);
     scanf("%d", &b); //scanf("%s", &b);
